@@ -32,7 +32,7 @@ BUSY -> D23     <br/><br/>
 
 DHT22 (module) -> ESP32
 
-VCC -> 3.3V
+VCC -> D33
 
 GND -> GND
 
