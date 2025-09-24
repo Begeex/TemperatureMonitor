@@ -46,7 +46,7 @@ DAT -> D4
 #define LED 2
 #define DHTpower 33
 
-int TIME_TO_SLEEP = 60;                        //Time esp32 wil sleep in seconds (15min)
+int TIME_TO_SLEEP = 900;                        //Time esp32 wil sleep in seconds (15min)
 
 unsigned long long uS_TO_S_FACTOR = 1000000;  // Conversion factor for microseconds to seconds
 
