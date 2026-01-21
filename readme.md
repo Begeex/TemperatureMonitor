@@ -1,6 +1,6 @@
 # Low-power temperature monitor
 
-This project uses an ESP32 and an e-ink screen to display temperature and humidity values from two temperature meters. Its power consumption is also somewhat optimized.
+This project uses an ESP32 and an e-ink screen to display temperature and humidity values from two temperature meters. It's power consumption is also somewhat optimized.
 
 ### Parts
 
