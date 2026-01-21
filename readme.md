@@ -59,4 +59,4 @@ With a 10000 mAh powerbank the device could theoretically run for up to 4000 hou
 
 ### More
 
-This project is still a work in progress.
+The device is fully functional but lacks an enclosure.
